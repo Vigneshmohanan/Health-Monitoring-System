@@ -1,0 +1,106 @@
+
+.new1
+{
+	display: flex;
+	justify-content: space-between;
+	box-shadow: 10px 10px 2px rgb(114, 164, 251);
+
+}
+h1{
+margin-right: 70px;
+color:cyan;
+}
+body{
+	background-color: white;
+}
+.image{
+	position: relative;
+	text-align: center;
+}
+.cent{
+	font-size: xxx-large;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.new1{
+	color: cyan;
+	background-color: black;
+	padding: 20px;
+}
+.about{
+	justify-content: space-around;
+	background-color: black;
+	padding: 30px;
+}
+.ab{
+	
+}
+.main
+{
+	display: flex;
+	justify-content: space-between;
+	padding: 40px;	
+}
+.about{
+	box-shadow: 10px 10px 2px rgb(114, 164, 251);
+}
+.main1
+{
+	box-shadow: 10px 10px 2px rgb(114, 164, 251);
+	border-radius: 45%;
+	background-color: black;
+	padding: 70px;
+}
+.main1:hover {
+background-color: grey;
+}
+h3
+{
+	color: cyan;
+}	
+.cap
+{
+	box-shadow: 10px 10px 2px rgb(114, 164, 251);
+	background-color: black;
+	padding: 70px;
+}
+.img{
+	width:100%;
+	height:60%;
+}
+h2{
+color: cyan;
+}
+p{
+color: cyan;
+}
+.contact{
+background-color: black;
+}
+.cu
+{
+	box-shadow: 10px 10px 2px rgb(114, 164, 251);
+	padding: 70px;
+	display: flex;
+	justify-content: space-between;
+}
+label
+{
+	color: white;
+}
+.c
+{
+	background-color: black;
+}
+i{
+	color: white;
+}
+a{
+	text-decoration: none;
+}
+p{
+	color:white;
+}
